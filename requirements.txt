@@ -1,0 +1,15 @@
+phidata  # framework
+python-dotenv
+yfinance
+packaging
+duckduckgo-search  # tool used by agent for websearch
+fastapi # for running on frontend
+uvicorn
+groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+streamlit
+google-generativeai
